@@ -1,0 +1,12 @@
+[
+    {"type":"database","name":"demographics"},
+    {"type":"table","name":"persons","database":"demographics","data":
+        [
+            {"id":"1","name":"John Doe","age":30,"city":"Los Angeles"},
+            {"id":"2","name":"Jane Doe","age":31,"city":"Los Angeles"},
+            {"id":"3","name":"John Doe","age":19,"city":"New York"},
+            {"id":"4","name":"Jane Doe","age":18,"city":"New York"},
+            {"id":"5","name":"Zach","age":79,"city":"San Francisco"}
+        ]
+    }
+]
